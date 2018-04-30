@@ -18,4 +18,5 @@ add_lunch_combo rr_zerofltexx-userdebug
 add_lunch_combo aosip_zerofltexx-userdebug
 add_lunch_combo aicp_zerofltexx-userdebug
 add_lunch_combo lineage_zerofltexx-userdebug
+add_lunch_combo fh_zerofltexx-userdebug
 
