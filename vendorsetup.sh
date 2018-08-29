@@ -23,3 +23,4 @@ add_lunch_combo aokp_zerofltexx-userdebug
 add_lunch_combo omni_zerofltexx-userdebug
 add_lunch_combo dot_zerofltexx-userdebug
 add_lunch_combo du_zerofltexx-userdebug
+add_lunch_combo havoc_zerofltexx-userdebug
